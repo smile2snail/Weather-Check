@@ -1,0 +1,30 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+  text-transform: capitalize;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 13px;
+}
+
+.input-group {
+  margin-left: 100px;
+  margin-top: 65px;
+}

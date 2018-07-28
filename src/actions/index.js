@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '0ca76605250ff1b46ec54c9250666b3c';
+const API_KEY = 'Hidden API';
 const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
 export const FETCH_WEATHER = 'FETCH_WEATHER';
